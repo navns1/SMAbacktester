@@ -5,4 +5,4 @@ Conducted initial exploratory analysis through normalized return plots, risk-ret
 
 Implemented and backtested a traditional 50-day/200-day SMA crossover strategy, which underperformed relative to a passive buy-and-hold benchmark. The strategy was then adjusted to incorporate a long-only bias, motivated by an observed upward drift in equity markets, resulting in improved returns and reduced drawdowns.
 
-© [Navneeth Suresh], [2025]. All rights reserved.
+### © Navneeth Suresh, 2025. All rights reserved.
